@@ -4,6 +4,19 @@ Code for the paper `Bayesian Neural Network via Stochastic Gradient Descent`.
 
 Link to [Paper](https://abhinavsagar.github.io/files/bnn_sgd.pdf).
 
+## Abstract
+
+The goal of bayesian approach used in variational inference is to minimize the KL
+divergence between the variational distribution and unknown posterior distribution.
+This is done by maximizing the Evidence Lower Bound (ELBO). A neural network
+is used to parametrize these distributions using Stochastic Gradient Descent. This
+work derives the variational inference models using bayesian neural networks. We
+show how SGD can be applied on bayesian neural networks by gradient estimation
+techniques. For validation, we have tested our model on 5 UCI datasets and the
+metrics chosen for evaluation are Root Mean Square Error (RMSE) error and
+negative log likelihood. Our work considerably beats the previous state of the art
+approaches for regression using SGD.
+
 ## Data
 
 The dataset can be downloaded from [here](https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table).
