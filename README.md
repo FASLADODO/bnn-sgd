@@ -27,7 +27,7 @@ The dataset can be downloaded from [here](https://archive.ics.uci.edu/ml/dataset
 
 ## Installation
 
-`python bnn.py`
+`python code/bnn.py`
 
 ## Results
  
