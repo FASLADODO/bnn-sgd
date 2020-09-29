@@ -45,6 +45,8 @@ Bayesian neural network regression: average negative test Log Likelihood
 
 If you find this code useful in your research, please consider citing the paper:
 
+BibTex:
+
 ```
 @article{sagar2020bayesian,
   title={Bayesian Neural Network via Stochastic Gradient Descent},
@@ -53,6 +55,10 @@ If you find this code useful in your research, please consider citing the paper:
   year={2020}
 }
 ```
+
+APA:
+
+`Sagar, A. (2020). Bayesian neural network via stochastic gradient descent. arXiv preprint arXiv:2006.08453.`
 
 ## License
 
