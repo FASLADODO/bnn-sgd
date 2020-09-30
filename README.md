@@ -1,7 +1,7 @@
 # Bayesian Neural Network via Stochastic Gradient Descent
 Code for the paper `Bayesian Neural Network via Stochastic Gradient Descent`.
 
-https://abhinavsagar.github.io/files/bnn_sgd.pdf
+https://arxiv.org/pdf/2006.08453
 
 ## Abstract
 
