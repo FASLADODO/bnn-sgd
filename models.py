@@ -1,5 +1,5 @@
-from .likelihoods import Gaussian
-from .reparameterize import BroadcastingLikelihood
+from likelihoods import Gaussian
+from reparameterize import BroadcastingLikelihood
 
 import tensorflow as tf
 import numpy as np
