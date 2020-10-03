@@ -24,17 +24,17 @@ The dataset can be downloaded from [here](https://archive.ics.uci.edu/ml/dataset
 
 ![roc-auc](images/img1.png)
 
-## Installation
+## Usage
 
 `python code/bnn.py`
 
 ## Results
  
-Bayesian neural network regression: average test RMSE
+Bayesian neural network regression: average test RMSE:
  
 ![roc-auc](images/img2.png)
 
-Bayesian neural network regression: average negative test Log Likelihood
+Bayesian neural network regression: average negative test Log Likelihood:
 
 ![roc-auc](images/img3.png)
 
@@ -53,9 +53,9 @@ BibTex:
 }
 ```
 
-APA:
+MLA:
 
-`Sagar, A. (2020). Bayesian neural network via stochastic gradient descent. arXiv preprint arXiv:2006.08453.`
+`Sagar, Abhinav. "Bayesian neural network via stochastic gradient descent." arXiv preprint arXiv:2006.08453 (2020).`
 
 ## License
 
