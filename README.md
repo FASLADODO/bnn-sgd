@@ -24,9 +24,9 @@ The dataset can be downloaded from [here](https://archive.ics.uci.edu/ml/dataset
 
 ![roc-auc](images/img1.png)
 
-## Usage
+## Train
 
-`python code/bnn.py`
+`python bnn.py`
 
 ## Results
  
