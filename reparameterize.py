@@ -1,4 +1,4 @@
-from .likelihoods import Gaussian
+from likelihoods import Gaussian
 
 import tensorflow as tf
 from gpflow import settings
