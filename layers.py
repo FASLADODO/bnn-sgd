@@ -1,4 +1,4 @@
-from .reparameterize import reparameterize
+from reparameterize import reparameterize
 
 import tensorflow as tf
 import numpy as np
